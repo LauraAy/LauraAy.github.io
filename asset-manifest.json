@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5bcbb24d.chunk.css",
+    "main.js": "/static/js/main.f5470049.chunk.js",
+    "main.js.map": "/static/js/main.f5470049.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ceaf4b5f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ceaf4b5f.js.map",
+    "static/js/2.ccf692db.chunk.js": "/static/js/2.ccf692db.chunk.js",
+    "static/js/2.ccf692db.chunk.js.map": "/static/js/2.ccf692db.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.862df3a8ba74f3e9281ebd092b16bf45.js": "/precache-manifest.862df3a8ba74f3e9281ebd092b16bf45.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5bcbb24d.chunk.css.map": "/static/css/main.5bcbb24d.chunk.css.map",
+    "static/js/2.ccf692db.chunk.js.LICENSE.txt": "/static/js/2.ccf692db.chunk.js.LICENSE.txt",
+    "static/media/balloon.jpg": "/static/media/balloon.92f612a4.jpg",
+    "static/media/head_shot.jpg": "/static/media/head_shot.8d86d095.jpg",
+    "static/media/logo_mrb.png": "/static/media/logo_mrb.32fa8e1d.png",
+    "static/media/octocat.jpg": "/static/media/octocat.0bae7731.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ceaf4b5f.js",
+    "static/js/2.ccf692db.chunk.js",
+    "static/css/main.5bcbb24d.chunk.css",
+    "static/js/main.f5470049.chunk.js"
+  ]
+}
