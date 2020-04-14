@@ -13,9 +13,13 @@ const AboutCard = () => {
 <div className="card m-3"Name>
   <h2 className="card-title">Portfolio</h2>
   <hr />
-  <p>
+  <div class="card-body">
+   <div class="col-md-12">
+  <h4>
    Click on the projects below to see examples of work for the recent UCI Coding Bootcamp.
-  </p>
+  </h4>
+    </div>
+  </div>
   <div className="row single-post mt-5 no-gutters">
     <div className="card-body">
       <div className="row">

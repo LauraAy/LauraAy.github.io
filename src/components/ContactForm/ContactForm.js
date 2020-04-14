@@ -5,13 +5,17 @@ const ContactForm = () => {
   return (
     <>
     <div className="card m-3">
-    <h2 className="card-title">Contact</h2>
-    <hr />
-    <h3> Laura Aydelotte</h3>
-    <h4>email: laura.ay1564@gmail.com</h4>
-    <h4>twitter: @lauraeaydelotte</h4>
-    <h4><a href="https://github.com/lauraay">github</a> </h4>
-    <h4><a href="https://www.linkedin.com/in/laura-aydelotte-2499066a/">LinkedIn</a></h4>
+     <div class="card-body">
+      <div class="col-md-12">
+        <h2 className="card-title">Contact</h2>
+        <hr />
+        <h3> Laura Aydelotte</h3>
+        <h4>email: laura.ay1564@gmail.com</h4>
+        <h4>twitter: @lauraeaydelotte</h4>
+        <h4><a href="https://github.com/lauraay">github</a> </h4>
+        <h4><a href="https://www.linkedin.com/in/laura-aydelotte-2499066a/">LinkedIn</a></h4>
+      </div>
+      </div>
     </div>
 
     </>
