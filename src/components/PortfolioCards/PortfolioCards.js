@@ -24,7 +24,7 @@ const AboutCard = () => {
     <div className="card-body">
       <div className="row">
         <div className="col-md-6">
-              <a href="https://banana-pudding-35031.herokuapp.com">
+                <a href="https://peaceful-bastion-92887.herokuapp.com">
             <img src={garden} alt="garden array" />
             <div className="img-overlay">
               <h5 className="bottom-text">Project 3: Garden Array</h5>
