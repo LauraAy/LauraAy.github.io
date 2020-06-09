@@ -1,3 +1,9 @@
+##Laura Aydelotte Profile
+This is the professional profile page for Laura Aydelote.  The deployed page can be found here: https://lauraay.github.io/
+
+This page was built using ReactJS. 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
