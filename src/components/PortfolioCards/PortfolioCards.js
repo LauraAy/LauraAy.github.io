@@ -15,11 +15,20 @@ const AboutCard = () => {
   <hr />
   <div class="card-body">
    <div class="col-md-12">
-  <h4>
-   Click on the projects below to see examples of work for the recent UCI Coding Bootcamp.
-  </h4>
+  <h3>
+  A sample representing my work in fullstack application development, data management, and project management. 
+  </h3>
     </div>
   </div>
+        <div className="row single-post mt-5 no-gutters">
+          <div className="card-body">
+            <div className="row">
+              <div className="col-md-6">
+                <a href="https://provenanceonlineproject.wordpress.com/about/">
+                  <img alt="POP" />
+                  <div className="img-overlay">
+                    <h2 className="bottom-text">One of my major projects at Penn Libraries. My primary role was project manager, which included working closely with developers on technical requirements and implementation. I also contributed code--ruby on rails, bootstrap, mysql--to the project application in coordination with the senior developer.</h2>
+                  </div>
   <div className="row single-post mt-5 no-gutters">
     <div className="card-body">
       <div className="row">
@@ -39,12 +48,6 @@ const AboutCard = () => {
             </div>
           </a>
         </div>        
-        <div className="col-md-6">
-          <a href="https://carlnaza.github.io/parseSuperchargers/">
-                <img src={tesla} alt="budget tesla"/>
-            <div className="img-overlay">
-              <h5 className="bottom-text">Project1: Budget Tesla</h5>
-            </div>
           </a>
         </div>
       </div>
